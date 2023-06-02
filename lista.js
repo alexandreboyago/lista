@@ -5,5 +5,5 @@
   {"id": 4, "Nome": "Joaquim", "Idade": 50},
   {"id": 5, "Nome": "Arthur", "Idade": 6},
   {"id": 6, "Nome": "Matheus", "Idade": 16},
-  {"id": 7, "Nome": "Jurandir", "Idade": 63},
+  {"id": 7, "Nome": "Jurandir", "Idade": 63}
 ]
